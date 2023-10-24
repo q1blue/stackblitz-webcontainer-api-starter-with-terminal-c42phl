@@ -12,7 +12,7 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
-    "@webcontainer/api": "^1.0.0",
+    "@webcontainer/api": "^1.1.7",
     "xterm": "^5.1.0",
     "xterm-addon-fit": "^0.7.0"
   }
